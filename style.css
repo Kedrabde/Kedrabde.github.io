@@ -1,0 +1,146 @@
+header {
+  background-color: white;
+  color: black;
+  padding: 10px;
+  align-items: center;
+  text-align: center;
+  display: flex;
+  height: 50px;
+  justify-content: space-between;
+}
+.logo{
+  width: 60px;
+  height: auto;
+  margin-right: 20px;
+}
+.menu-icon{
+  cursor: pointer;
+  display: block;
+}
+.menu{
+  color: aqua;
+}
+h2{
+  color: red;
+  padding-left: 10%;
+}
+h4{ 
+  padding-left: 5%;
+}
+.aboutt p{
+  color: black;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-family: Roboto, sans-serif;
+}
+.dash{
+  background-color: white;
+}
+nav ul {
+  list-style: none;
+  justify-content: space-between;
+}
+h1{
+  color: red;
+  align-content: center;
+  align-items: center;
+  display: flex;
+  font-size: 75px;
+  justify-content: space-between;
+}
+.kedr img{
+  width: 100%;
+  height: auto;
+}
+h5{
+  color: black;
+  font-size: 20px;
+  
+}
+.aboutt img{
+  width: 100%;
+  height: auto;
+}
+#about {
+  display: flex;
+  padding: 0;
+  background-color: white;
+  padding-top: 40%;
+  align-items: center;
+  flex-direction: row;
+}
+.about h2, p{
+  padding-right: 30%;
+}
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+.section, about{
+  background-color: black;
+}
+.hero{
+  background-color: aqua;
+}
+.heri img{
+  width: 10px;
+  height: auto;
+}
+.circular-image{
+  height: auto;
+  width: 100%;
+  border-radius: 500px;
+}
+nav ul li a {
+  text-decoration: none;
+  color: black;
+}
+main {
+  padding: 0px;
+  background-color: black;
+  width: 100%;
+}
+.content{
+  background-size: cover;
+  background-position: center;
+  height: auto;
+  padding-top: 10%;
+  display: flex;
+}
+.newslatter input[type="email"]{
+  color: red;
+  border-radius: 30px;
+  width: 50%;
+  height: 30px;
+}
+.newslatter input[type=submit]{
+  background-color: red;
+  color: white;
+  border-radius: 30px;
+  width: 20%;
+  display: inline-block;
+  font-size: 10px;
+  height: 30px;
+}
+.fab{
+  padding-left: 10px;
+  font-size: 30px;
+}
+
+/* Styling for sections */
+section {
+  background-color: #f9f9f9;
+}
+
+/* Footer styles */
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+  align-items: center;
+}
+.copyright{
+  max-width: 100%;
+  margin: 20 auto;
+}
